@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\bin\Debug\net8.0\IFElse.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\bin\Debug\net8.0\IFElse.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\bin\Debug\net8.0\IFElse.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\bin\Debug\net8.0\IFElse.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\bin\Debug\net8.0\IFElse.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\refint\IFElse.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\IFElse.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\IFElse\obj\Debug\net8.0\ref\IFElse.dll

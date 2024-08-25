@@ -1,0 +1,15 @@
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.AssemblyInfoInputs.cache
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.AssemblyInfo.cs
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.csproj.CoreCompileInputs.cache
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.sourcelink.json
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.exe
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.deps.json
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.runtimeconfig.json
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.dll
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.pdb
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.dll
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\refint\TipDonusum.dll
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.pdb
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.genruntimeconfig.cache
+c:\Users\Sena\source\repos\IstkaFullData\Fundamental\TipDonusum\obj\Debug\net8.0\ref\TipDonusum.dll

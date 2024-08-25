@@ -47,23 +47,30 @@ public class Program
         #endregion
 
         #region DEĞİŞKENLERİN YAŞAM ÖMRÜ
-        int yas = 20;
-        {
-            string email = "snjsnd@gmail.com";
-            System.Console.WriteLine(email);
-            System.Console.WriteLine(yas);
-            {
-                int sayi = 10;
-                System.Console.WriteLine(email);
-                System.Console.WriteLine(yas);
-                System.Console.WriteLine(sayi);
-            }
-            //System.Console.WriteLine(sayi); //Hata verir!
-        }
+        // int yas = 20;
+        // {
+        //     string email = "snjsnd@gmail.com";
+        //     System.Console.WriteLine(email);
+        //     System.Console.WriteLine(yas);
+        //     {
+        //         int sayi = 10;
+        //         System.Console.WriteLine(email);
+        //         System.Console.WriteLine(yas);
+        //         System.Console.WriteLine(sayi);
+        //     }
+         //System.Console.WriteLine(sayi); //Hata verir!
+        // }
         //System.Console.WriteLine(email); //Hata verir!
         //System.Console.WriteLine(sayi); //Hata verir!
         #endregion
+    
+    #region Nullable Değişken Tanımlama ve ?
+    //bir değişkene null değerler atilabilir demek için ? ile işaretlemek gerekir.
+        string str = "";
+
+    #endregion
     }
+
 }
 
 
