@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj": {}
+    "c:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj": {
+    "c:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj",
+        "projectUniqueName": "c:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj",
         "projectName": "TipDonusum",
-        "projectPath": "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj",
+        "projectPath": "c:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\TipDonusum.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\obj\\",
+        "outputPath": "c:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\TipDonusum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
