@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TipDonusum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a368b4914754e9a0739a6ad55767b73d6b2cf58f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11ae65b485c65e21cc57d6f1450fe879f4f3969")]
 [assembly: System.Reflection.AssemblyProductAttribute("TipDonusum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TipDonusum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

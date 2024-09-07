@@ -5,8 +5,8 @@ class Program
     static void Main(string[] args)
     {
         #region Girilen Sayı Okuma
-            
-        
+
+
         // /*
         // Girilen 2 sayının 
         // */
@@ -35,9 +35,9 @@ class Program
         // {
         //     System.Console.WriteLine(sayi1 + " < " + sayi2);
         // }
-    #endregion    
-    
-         #region Su Sıcaklığı
+        #endregion
+
+        #region Su Sıcaklığı
         // int suSicakligi;
         // string temp;
         // Console.WriteLine("Suyun sıcaklığını giriniz:");
@@ -57,9 +57,9 @@ class Program
         // {
         //     Console.WriteLine("Gaz.");
         // }
-    #endregion
-    
-         #region Haftanın Günleri
+        #endregion
+
+        #region Haftanın Günleri
         /*Pazartesi haftanın birinci günü olmak 
         üzere, erkandan haftanın gününü okutun. 
         1 = pazartesi, 2=salı ......şeklinde bastırın.
@@ -98,19 +98,19 @@ class Program
         //     Console.WriteLine("Pazar.");
         // }
 
-    #endregion
-   
-        #region Final Notu Bulma
-            /*
-            2 vize 1 final alınacak. Vizenin %30 finalin %70 alınacak
-            eğer çıkan sonuç 
-                 0-29 arası ise D
-                 30-49 arası ise C
-                 50-69 arası ise B
-                 70-100 arasında ise A
-            && = ve || = ya da anlamındadır.
+        #endregion
 
-            */
+        #region Final Notu Bulma
+        /*
+        2 vize 1 final alınacak. Vizenin %30 finalin %70 alınacak
+        eğer çıkan sonuç 
+             0-29 arası ise D
+             30-49 arası ise C
+             50-69 arası ise B
+             70-100 arasında ise A
+        && = ve || = ya da anlamındadır.
+
+        */
 
         // byte vizeNotu1, vizeNotu2, finalNotu;
         // double sonuc;
@@ -141,8 +141,8 @@ class Program
         // }
 
         #endregion
-    
-    #region Reyon Bulma
+
+        #region Reyon Bulma
         /*
         Dışardan ürün adı girilecek program ürününün
         hangi reyonda olduğunu söyleyecek
@@ -174,9 +174,9 @@ class Program
         // {
         //     Console.WriteLine("Ürün Yok!");
         // }
-    #endregion
-    
-    #region Fiyat Tespit
+        #endregion
+
+        #region Fiyat Tespit
         /*
         Urun Fiyatı 5 TL olsun
         Dışardan girilecek siparis sayisina göre 
@@ -186,40 +186,110 @@ class Program
         100 ve üzeri için %20 indirim yapılacak.
         Ekrana toplam tutar, indirim miktarı ve ödenecek tutar bilgilerini yazdırın.
         */
-        
-        double urunFiyati = 5.0;
-        Console.WriteLine("Sipariş sayinizi giriniz");
-        int siparisSayisi = Convert.ToInt32(Console.ReadLine);
-        
-        double toplamTutar = urunFiyati * siparisSayisi;
-        double indirimOrani = 0;
-        
-        
-        if (siparisSayisi < 20)
-        {
-            indirimOrani = 0.05;
-        }
-        else if(siparisSayisi >=20 && siparisSayisi <50)
-        {
-            indirimOrani = 0.10;
-        }
-        else if(siparisSayisi >=50 && siparisSayisi <100)
-        {
-            indirimOrani = 0.15;
-        }
-        else if(siparisSayisi >=100 )
-        {
-            indirimOrani = 0.20;
-        }
 
-        double indirimMiktari = toplamTutar * indirimOrani;
-        double odenecekTutar = toplamTutar - indirimMiktari;
-        Console.WriteLine($"Toplam Tutar: {toplamTutar} TL");
-        Console.WriteLine($"İndirim Miktarı: {indirimMiktari} TL");
-        Console.WriteLine($"Ödenecek Tutar: {odenecekTutar} TL");
+        //double urunFiyati = 5.0;
+        //Console.WriteLine("Sipariş sayinizi giriniz");
+        //int siparisSayisi = Convert.ToInt32(Console.ReadLine());
 
-    #endregion
+        //double toplamTutar = urunFiyati * siparisSayisi;
+        //double indirimOrani = 0;
+
+        //if (siparisSayisi < 20)
+        //{
+        //    indirimOrani = 0.05;
+        //}
+        //else if(siparisSayisi >=20 && siparisSayisi <50)
+        //{
+        //    indirimOrani = 0.10;
+        //}
+        //else if(siparisSayisi >=50 && siparisSayisi <100)
+        //{
+        //    indirimOrani = 0.15;
+        //}
+        //else if(siparisSayisi >=100 )
+        //{
+        //    indirimOrani = 0.20;
+        //}
+
+        //double indirimMiktari = toplamTutar * indirimOrani;
+        //double odenecekTutar = toplamTutar - indirimMiktari;
+        //Console.WriteLine($"Toplam Tutar: {toplamTutar} TL");
+        //Console.WriteLine($"İndirim Miktarı: {indirimMiktari} TL");
+        //Console.WriteLine($"Ödenecek Tutar: {odenecekTutar} TL");
+
+        #endregion
+
+        #region Ternary IF
+        //Eğer tek satırda ufak bir karar mekanizması ile yola devam etmek istiyorsak
+        //? operatörü kullanmamız gerekecektir.
+        //Yazı formati => sonuc > 10 ? "True" : "False";
+        //Genelde Database'den gelen ya da
+        //apiden gelen değerleri kontrol etmekte sıklıkca kullanılır.
+        //Ya da bir değişkene değer atarken kullanılır.
+
+        //int yas = 20;
+        //var sonuc = yas > 18 ? "Reşit" : "Reşit Değildir.";
+        //Console.WriteLine(sonuc);
+
+        //string result;
+        //if (yas > 18)
+        //{
+        //    result = "Reşit";
+        //}
+        //else 
+        //{
+        //    result = "Reşit Değil";
+        //}
+
+        #endregion
+
+        #region Switch Case
+        /*
+         * if - else mantığı ile çalışır.
+         * IF ELSE büyük, küçük, eşit vb durumları
+         * kontrol ederken switch case esitlik durumlarına bakar.
+         * kendi içerisinde bir indelemeye sahiptir
+         * eşitlik koşulları fazla olan durumlarda performans açısından 
+         * switch case tavsiye edilir.
+         */
+        #region Haftanın Günleri
+        //byte gunler;
+        //Console.WriteLine("Günü Giriniz:");
+        //gunler = byte.Parse(Console.ReadLine());
+        //switch (gunler)
+        //{
+        //    case 1:
+        //        Console.WriteLine("Pazartesi");
+        //        break;
+        //    case 2: //birden fazla satır kod yazılacak ise {} arasında yazılabilir.
+        //        Console.WriteLine("Salı");
+        //        break;
+        //    case 3:
+        //        Console.WriteLine("Çarşamba");
+        //        break;
+        //    case 4:
+        //        Console.WriteLine("Perşembe");
+        //        break;
+        //    case 5:
+        //        Console.WriteLine("Cuma");
+        //        break;
+        //    case 6:
+        //        Console.WriteLine("Cumartesi");
+        //        break;
+        //    case 7:
+        //        Console.WriteLine("Pazar");
+        //        break;
+
+        //}
+        #endregion
+
+        #region Admin
+        Console.WriteLine("Hello World!");
+        #endregion
+
+        #endregion
+
     }
 
-    
+
 }
