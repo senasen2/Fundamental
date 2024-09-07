@@ -283,8 +283,30 @@ class Program
         //}
         #endregion
 
-        #region Admin
-        Console.WriteLine("Hello World!");
+        //Switch içerisindek veri tipi ne ise case kısmında buna uygun kontrol yapılması gerekiyor
+        //bu durum en sık yapı-ılan hatalardandır.
+        #region Ornek 1 : Ekrandan Mevsim Okutun ve Ayları bastırın. switch case ile yapılacak.
+        
+        Console.WriteLine("Mevsim Giriniz;");
+        string mevsim = Console.ReadLine();
+
+        switch (mevsim)
+        {
+            case "Kış":
+                Console.WriteLine("Aralık, Ocak, Şubat");
+                break;
+            case "İlkbahar":
+                Console.WriteLine("Mart,Nisan, Mayıs");
+                break;
+            case "Yaz":
+                Console.WriteLine("Haziran, Temmuz, Ağustos");
+                break;
+            case "Sonbahar":
+                Console.WriteLine("Eylül, Ekim, Kasım");
+                break;
+            default:
+                break;
+        }
         #endregion
 
         #endregion
