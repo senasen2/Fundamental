@@ -186,10 +186,37 @@ class Program
         100 ve üzeri için %20 indirim yapılacak.
         Ekrana toplam tutar, indirim miktarı ve ödenecek tutar bilgilerini yazdırın.
         */
+        
+        double urunFiyati = 5.0;
+        Console.WriteLine("Sipariş sayinizi giriniz");
+        int siparisSayisi = Convert.ToInt32(Console.ReadLine);
+        
+        double toplamTutar = urunFiyati * siparisSayisi;
+        double indirimOrani = 0;
+        
+        
+        if (siparisSayisi < 20)
+        {
+            indirimOrani = 0.05;
+        }
+        else if(siparisSayisi >=20 && siparisSayisi <50)
+        {
+            indirimOrani = 0.10;
+        }
+        else if(siparisSayisi >=50 && siparisSayisi <100)
+        {
+            indirimOrani = 0.15;
+        }
+        else if(siparisSayisi >=100 )
+        {
+            indirimOrani = 0.20;
+        }
 
-        //int urunFiyati = 5;
-        //int urunAdedi;
-
+        double indirimMiktari = toplamTutar * indirimOrani;
+        double odenecekTutar = toplamTutar - indirimMiktari;
+        Console.WriteLine($"Toplam Tutar: {toplamTutar} TL");
+        Console.WriteLine($"İndirim Miktarı: {indirimMiktari} TL");
+        Console.WriteLine($"Ödenecek Tutar: {odenecekTutar} TL");
 
     #endregion
     }

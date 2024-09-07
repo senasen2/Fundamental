@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DegiskenTanimlama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eefa894ed8b2b95905781262c43bbc052187b76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8bf2dd6ded56a452b5948de7e47632383db8d2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DegiskenTanimlama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DegiskenTanimlama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
