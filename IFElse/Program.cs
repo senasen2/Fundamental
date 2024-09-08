@@ -286,27 +286,85 @@ class Program
         //Switch içerisindek veri tipi ne ise case kısmında buna uygun kontrol yapılması gerekiyor
         //bu durum en sık yapı-ılan hatalardandır.
         #region Ornek 1 : Ekrandan Mevsim Okutun ve Ayları bastırın. switch case ile yapılacak.
-        
-        Console.WriteLine("Mevsim Giriniz;");
-        string mevsim = Console.ReadLine();
 
-        switch (mevsim)
-        {
-            case "Kış":
-                Console.WriteLine("Aralık, Ocak, Şubat");
-                break;
-            case "İlkbahar":
-                Console.WriteLine("Mart,Nisan, Mayıs");
-                break;
-            case "Yaz":
-                Console.WriteLine("Haziran, Temmuz, Ağustos");
-                break;
-            case "Sonbahar":
-                Console.WriteLine("Eylül, Ekim, Kasım");
-                break;
-            default:
-                break;
-        }
+        //Console.WriteLine("Mevsim Giriniz;");
+        //string mevsim = Console.ReadLine();
+
+        //switch (mevsim)
+        //{
+        //    case "Kış":
+        //        Console.WriteLine("Aralık, Ocak, Şubat");
+        //        break;
+        //    case "İlkbahar":
+        //        Console.WriteLine("Mart,Nisan, Mayıs");
+        //        break;
+        //    case "Yaz":
+        //        Console.WriteLine("Haziran, Temmuz, Ağustos");
+        //        break;
+        //    case "Sonbahar":
+        //        Console.WriteLine("Eylül, Ekim, Kasım");
+        //        break;
+        //    default:
+        //        break;
+        //}
+        #endregion
+
+        #region Ornek 2: Ekrandan Rol Okutun Eğer Admin girildiyse Admin Sayfasına yönlendiriyorsunuz değilse Satış Sayfasına yönlendiriyorsunuz Üye girildiyse Üye sayfasına yönlendirecek switch case yapısı kurulacak
+
+        //string rol;
+        //Console.WriteLine("Rolünüzü giriniz:");
+        //rol = Console.ReadLine();
+
+        //switch (rol = "Admin")
+        //{
+        //    case "Admin":
+        //        Console.WriteLine("Admin Sayfasına Yönlendiriliyorsunuz.");
+        //        break;
+        //    case "Satış":
+        //        Console.WriteLine("Satış Sayfasına Yönlendiriliyorsunuz.");
+        //        break ;
+        //    case "Üye":
+        //        Console.WriteLine("Satış Sayfasına Yönlendiriliyorsunuz.");
+        //        break;
+        //    default:
+        //        break;
+        //}
+
+        #endregion
+
+        #region Ornek 3: Kullanıcı adı ve şifre okutun. Her ikisi doğru ise hoşgeldin admin mesajı
+
+
+
+        //Console.WriteLine("Kullanıcı Adınızı Giriniz;");
+        //string kullaniciAdi = Console.ReadLine();
+        //Console.WriteLine("Şifrenizi Giriniz");
+        //string sifre = Console.ReadLine();
+
+        //switch (kullaniciAdi)
+        //{
+        //    case "Admin":
+        //        switch (sifre)
+        //        {
+        //            case "Admin":
+        //                Console.WriteLine("Hoşgeldin Admin");
+        //                break;
+        //            default:
+        //                Console.WriteLine("Kullancı adı doğru şifre yanlış.");
+        //                break;
+        //        }break;
+        //        default:
+        //            switch (sifre)
+        //            {
+        //                case "Admin":
+        //                Console.WriteLine("Şifre doğru kullanıcı adı yanlış");
+        //                break; 
+        //            default:
+        //                Console.WriteLine("Girilen bilgilerin hiç birisi doğru değildir.");
+        //                break;
+        //            }
+        //        break;
+        //}
         #endregion
 
         #endregion
