@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\bin\Debug\net8.0\4-Donguler.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\bin\Debug\net8.0\4-Donguler.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\bin\Debug\net8.0\4-Donguler.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\bin\Debug\net8.0\4-Donguler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\bin\Debug\net8.0\4-Donguler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\refint\4-Donguler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\4-Donguler.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\4-Donguler\obj\Debug\net8.0\ref\4-Donguler.dll

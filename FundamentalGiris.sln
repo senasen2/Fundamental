@@ -3,19 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTanimlama", "DegiskenTanimlama\DegiskenTanimlama.csproj", "{3A770DFD-EEE1-4A50-984D-17FD5AC365AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegiskenTanimlama", "DegiskenTanimlama\DegiskenTanimlama.csproj", "{3A770DFD-EEE1-4A50-984D-17FD5AC365AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusum", "TipDonusum\TipDonusum.csproj", "{EE67CC78-F578-44FA-BB49-342592723DC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusum", "TipDonusum\TipDonusum.csproj", "{EE67CC78-F578-44FA-BB49-342592723DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFElse", "IFElse\IFElse.csproj", "{6F7D2E22-B034-4618-B67C-520BBC66EA7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFElse", "IFElse\IFElse.csproj", "{6F7D2E22-B034-4618-B67C-520BBC66EA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Donguler", "4-Donguler\4-Donguler.csproj", "{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3A770DFD-EEE1-4A50-984D-17FD5AC365AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,15 @@ Global
 		{6F7D2E22-B034-4618-B67C-520BBC66EA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F7D2E22-B034-4618-B67C-520BBC66EA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F7D2E22-B034-4618-B67C-520BBC66EA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94B2F9F7-B12F-4ADC-A996-6DBA08086EFF}
 	EndGlobalSection
 EndGlobal
