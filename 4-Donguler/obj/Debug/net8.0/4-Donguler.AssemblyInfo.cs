@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4-Donguler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b08496e872875732bb4cf451842ebbd78d4a5ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76befd86e98decad2d8bdb4f3eb5e04bba76d4b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("4-Donguler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4-Donguler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
