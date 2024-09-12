@@ -133,40 +133,40 @@
             //Eğer tutulandan daha büyük sayı girilirse daha küçük bir sayı giriniz
             //Eğer tutulandan daha küçük sayı girilirse daha büyük bir sayı giriniz mesajı verilecek
 
-            Random rnd = new Random();
-            int tutulanSayi = rnd.Next(1,50);
-            byte tahminHakki = 5;
+            //Random rnd = new Random();
+            //int tutulanSayi = rnd.Next(1,50);
+            //byte tahminHakki = 5;
             //Console.WriteLine(tutulanSayi);
             //int oyuncuSayisi = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Sayı Tahmin Oyununa Hoşgeldiniz :)");
+            //Console.WriteLine("Sayı Tahmin Oyununa Hoşgeldiniz :)");
 
-            while (tahminHakki > 0)
-            {
-                Console.WriteLine("Bir sayı tahmin edin:");
-                int oyuncuSayisi = int.Parse(Console.ReadLine());
-                if (oyuncuSayisi < tutulanSayi)
-                {
-                    Console.WriteLine("Daha büyük bir sayı giriniz.");
-                }
-                else if (oyuncuSayisi > tutulanSayi)
-                {
-                    Console.WriteLine("Daha küçük bir sayı giriniz.");
-                }
-                else if(oyuncuSayisi == tutulanSayi)    
-                {
-                    Console.WriteLine($"Tebrikler Doğru Sayıyı Bildiniz :) {6-tahminHakki}. denemede bildiniz");
-                    break;
-                }
-                tahminHakki--;  // Tahmin hakkını azaltmak için
-                Console.WriteLine($"Kalan Tahmin Hakkınız: {tahminHakki}");
+            //while (tahminHakki > 0)
+            //{
+            //    Console.WriteLine("Bir sayı tahmin edin:");
+            //    int oyuncuSayisi = int.Parse(Console.ReadLine());
+            //    if (oyuncuSayisi < tutulanSayi)
+            //    {
+            //        Console.WriteLine("Daha büyük bir sayı giriniz.");
+            //    }
+            //    else if (oyuncuSayisi > tutulanSayi)
+            //    {
+            //        Console.WriteLine("Daha küçük bir sayı giriniz.");
+            //    }
+            //    else if(oyuncuSayisi == tutulanSayi)    
+            //    {
+            //        Console.WriteLine($"Tebrikler Doğru Sayıyı Bildiniz :) {6-tahminHakki}. denemede bildiniz");
+            //        break;
+            //    }
+            //    tahminHakki--;  // Tahmin hakkını azaltmak için
+            //    Console.WriteLine($"Kalan Tahmin Hakkınız: {tahminHakki}");
 
-                // Tahmin hakkı bitti mi?
-                if (tahminHakki == 0)
-                {
-                    Console.WriteLine($"Tahmin hakkınız bitti! Doğru sayı: {tutulanSayi}");
-                }
-            }
+            //    // Tahmin hakkı bitti mi?
+            //    if (tahminHakki == 0)
+            //    {
+            //        Console.WriteLine($"Tahmin hakkınız bitti! Doğru sayı: {tutulanSayi}");
+            //    }
+            //}
             #endregion
 
             #region İlk 20 Fibonacci Sayısını Yazdırınız
