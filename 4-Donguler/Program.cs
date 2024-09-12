@@ -110,19 +110,111 @@
              *genel syntax
              *while(kosul)
              *{
-             *     kosul doğru olduüu sürece
+             *     kosul doğru olduğu sürece
              *}
              */
 
             #region 0 girilene kadar ekrandan okutulan sayıları toplayıp yazdıralım.
-            //BURADAN DEVAM
-            //string sayi;
-            //sayi = Console.ReadLine();
-            //sayi.ToString;
-            //while (sayi == 0)
+            //int toplam = 0, sayi = 1, sayac = 0;
+            //while (sayi != 0)
             //{
-            //    Console.WriteLine(sayi);
+            //    Console.WriteLine("Sayıyı giriniz;");
+            //    sayi = int.Parse(Console.ReadLine());
+            //    toplam += sayi; //toplam = toplam +sayi;
+            //    sayac++; //sayac = sayav + 1;
             //}
+            ////Console.WriteLine("Girilen Sayıların Adedi" + sayac + "Toplamı:" + toplam);
+            ////Console.WriteLine("Girilen Sayıların Adedi {0} Toplamı : {1}" , sayac, toplam);
+            //Console.WriteLine($"Girilen Sayıların Adedi { sayac} Toplamı: { toplam}");
+            #endregion
+
+            #region Sayı Tahmin Oyunu (1 - 50 arası)
+            //Kullanıcıya 5 tahmin haklı verilecek.
+            //Eğer tutulandan daha büyük sayı girilirse daha küçük bir sayı giriniz
+            //Eğer tutulandan daha küçük sayı girilirse daha büyük bir sayı giriniz mesajı verilecek
+
+            Random rnd = new Random();
+            int tutulanSayi = rnd.Next(1,50);
+            byte tahminHakki = 5;
+            //Console.WriteLine(tutulanSayi);
+            //int oyuncuSayisi = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Sayı Tahmin Oyununa Hoşgeldiniz :)");
+
+            while (tahminHakki > 0)
+            {
+                Console.WriteLine("Bir sayı tahmin edin:");
+                int oyuncuSayisi = int.Parse(Console.ReadLine());
+                if (oyuncuSayisi < tutulanSayi)
+                {
+                    Console.WriteLine("Daha büyük bir sayı giriniz.");
+                }
+                else if (oyuncuSayisi > tutulanSayi)
+                {
+                    Console.WriteLine("Daha küçük bir sayı giriniz.");
+                }
+                else if(oyuncuSayisi == tutulanSayi)    
+                {
+                    Console.WriteLine($"Tebrikler Doğru Sayıyı Bildiniz :) {6-tahminHakki}. denemede bildiniz");
+                    break;
+                }
+                tahminHakki--;  // Tahmin hakkını azaltmak için
+                Console.WriteLine($"Kalan Tahmin Hakkınız: {tahminHakki}");
+
+                // Tahmin hakkı bitti mi?
+                if (tahminHakki == 0)
+                {
+                    Console.WriteLine($"Tahmin hakkınız bitti! Doğru sayı: {tutulanSayi}");
+                }
+            }
+            #endregion
+
+            #region İlk 20 Fibonacci Sayısını Yazdırınız
+            //Kendinden önceki iki sayının toplamı şeklindedir.
+
+            //int sayi1 = 0, sayi2 = 1, toplam;
+
+            //for (int i = 1; i < 21; i++)
+            //{
+            //    toplam = sayi1 + sayi2;
+            //    Console.WriteLine(toplam + "");
+            //    sayi1 = sayi2;
+            //    sayi2 = toplam;
+
+            //}
+
+            //Console.ReadLine();
+
+            #endregion
+
+            #region İlk 20 Asal Sayıyı Yazdırınız
+            //int sayac = 1, altSayac = 0;
+
+            //for (int i = 1; i < 1000; i++)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        if (i % j == 0)
+            //        {
+            //            altSayac++;
+            //        }
+            //    }
+
+            //    if (altSayac == 2)
+            //    {
+            //        Console.WriteLine(i);
+            //        sayac++;
+            //    }
+
+            //    altSayac = 0;
+            //    if (sayac == 20) break;
+
+            //}
+            #endregion
+
+
+            #region MyRegion
+
             #endregion
             #endregion
         }
