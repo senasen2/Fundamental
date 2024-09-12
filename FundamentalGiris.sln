@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusum", "TipDonusum\Ti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IFElse", "IFElse\IFElse.csproj", "{6F7D2E22-B034-4618-B67C-520BBC66EA7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Donguler", "4-Donguler\4-Donguler.csproj", "{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-Donguler", "4-Donguler\4-Donguler.csproj", "{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Diziler", "5-Diziler\5-Diziler.csproj", "{90F786E8-E811-4E8D-B1AD-47D636786FA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEDD7F60-7304-4CA4-9CF3-C264A42402CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F786E8-E811-4E8D-B1AD-47D636786FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F786E8-E811-4E8D-B1AD-47D636786FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F786E8-E811-4E8D-B1AD-47D636786FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F786E8-E811-4E8D-B1AD-47D636786FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
