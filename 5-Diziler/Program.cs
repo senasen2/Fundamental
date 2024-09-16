@@ -158,6 +158,19 @@ namespace _5_Diziler
             //0 => 20,40,60 ortalaması :
 
             #endregion
+
+            #region Dizide ki en küçük ve en büyük elemanı bulma
+            int[] sayilar = new int[20];
+            Random rnd = new Random();
+            for (int i = 0; i < sayilar.Length; i++)
+            {
+                sayilar[i] = rnd.Next(1, 100);
+                Console.WriteLine(sayilar[i]);
+            }
+            Console.WriteLine("********************");
+            Console.WriteLine(sayilar.Min());
+            Console.WriteLine(sayilar.Max());
+            #endregion
         }
     }
 }
