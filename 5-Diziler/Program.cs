@@ -125,32 +125,32 @@ namespace _5_Diziler
             #endregion
 
             #region 20 Kişilik Bir Sınıfın İki Vize Bir Final Notunu TutatacaK Bir Diziyi Tanımalayınız.
-            Random  rnd = new Random();
-            int[,] notlar = new int[20,3];
-            int vize1 = 0, vize2 = 0, final = 0;
-            double not =    0;
+            //Random  rnd = new Random();
+            //int[,] notlar = new int[20,3];
+            //int vize1 = 0, vize2 = 0, final = 0;
+            //double not =    0;
 
-            for (int i = 0; i < notlar.GetLength(0); i++)
-            {
-                for (int j = 0; j < notlar.GetLength(1); j++)
-                {
-                    notlar[i,j] = rnd.Next(0,100);
-                }
+            //for (int i = 0; i < notlar.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < notlar.GetLength(1); j++)
+            //    {
+            //        notlar[i,j] = rnd.Next(0,100);
+            //    }
 
-                vize1 = notlar[i, 0];
-                vize2 = notlar[i, 1];
-                final = notlar[i, 2];
-                not = ((vize1+ vize2) * 0.3) + (final * 0.6);
+            //    vize1 = notlar[i, 0];
+            //    vize2 = notlar[i, 1];
+            //    final = notlar[i, 2];
+            //    not = ((vize1+ vize2) * 0.3) + (final * 0.6);
 
-                if (not < 50)
-                {
-                    Console.WriteLine("{0}.öğrenci 1.vize: {1}, 2.vize: {2}, final: {3},toplam not ortalaması {4:F2} - öğrenci kaldı", i + 1, vize1, vize2, final, not);
-                }
-                else
-                {
-                    Console.WriteLine("{0}.öğrenci 1.vize: {1}, 2.vize: {2}, final: {3},toplam not ortalaması {4:F2} - öğrenci geçti", i + 1, vize1, vize2, final, not);
-                }
-            }
+            //    if (not < 50)
+            //    {
+            //        Console.WriteLine("{0}.öğrenci 1.vize: {1}, 2.vize: {2}, final: {3},toplam not ortalaması {4:F2} - öğrenci kaldı", i + 1, vize1, vize2, final, not);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("{0}.öğrenci 1.vize: {1}, 2.vize: {2}, final: {3},toplam not ortalaması {4:F2} - öğrenci geçti", i + 1, vize1, vize2, final, not);
+            //    }
+            //}
 
             //vizelerin toplamının %30 finalin %70 i alınacak.
             //50 ve üzeri geçti olacak.

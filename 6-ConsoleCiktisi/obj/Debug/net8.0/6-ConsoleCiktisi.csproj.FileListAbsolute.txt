@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\bin\Debug\net8.0\6-ConsoleCiktisi.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\bin\Debug\net8.0\6-ConsoleCiktisi.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\bin\Debug\net8.0\6-ConsoleCiktisi.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\bin\Debug\net8.0\6-ConsoleCiktisi.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\bin\Debug\net8.0\6-ConsoleCiktisi.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\refint\6-ConsoleCiktisi.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\6-ConsoleCiktisi.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\6-ConsoleCiktisi\obj\Debug\net8.0\ref\6-ConsoleCiktisi.dll
