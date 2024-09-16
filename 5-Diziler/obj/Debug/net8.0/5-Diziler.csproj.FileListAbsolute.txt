@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\bin\Debug\net8.0\5-Diziler.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\bin\Debug\net8.0\5-Diziler.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\bin\Debug\net8.0\5-Diziler.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\bin\Debug\net8.0\5-Diziler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\bin\Debug\net8.0\5-Diziler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\refint\5-Diziler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\5-Diziler.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\5-Diziler\obj\Debug\net8.0\ref\5-Diziler.dll
