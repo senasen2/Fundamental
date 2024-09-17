@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-ConsoleCiktisi", "6-Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-TryCatch", "7-TryCatch\7-TryCatch.csproj", "{984E75F8-5D81-4B38-8902-728D5719F48D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MainArguman", "8-MainArguman\8-MainArguman.csproj", "{D6608B0F-75C1-47E2-AFC3-F4CB80EC8595}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{984E75F8-5D81-4B38-8902-728D5719F48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{984E75F8-5D81-4B38-8902-728D5719F48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{984E75F8-5D81-4B38-8902-728D5719F48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6608B0F-75C1-47E2-AFC3-F4CB80EC8595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6608B0F-75C1-47E2-AFC3-F4CB80EC8595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6608B0F-75C1-47E2-AFC3-F4CB80EC8595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6608B0F-75C1-47E2-AFC3-F4CB80EC8595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
