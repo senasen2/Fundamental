@@ -56,6 +56,15 @@
             #region Metod Çağırma
             Topla(3, 98);
             #endregion
+
+            #region Sorular
+            /* 1- Kendisine gelen mesaji ekrana yazan metod EkranaYaz()
+             * 2- Ekrandan sayi okutup int donen sayioku metodu yaziniz.
+             * 3- iki adet integer deger alip bir adet string operator alsin 
+             *     Gelen operatore gore 4 islem sonucunu ekrana yazdirsin
+             */
+
+            #endregion
         }
 
         public static void Topla(int sayi1, int sayi2) 
