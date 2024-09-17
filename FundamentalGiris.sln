@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-Donguler", "4-Donguler\4-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-Diziler", "5-Diziler\5-Diziler.csproj", "{90F786E8-E811-4E8D-B1AD-47D636786FA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-ConsoleCiktisi", "6-ConsoleCiktisi\6-ConsoleCiktisi.csproj", "{C47BEA2E-BE5D-46A9-BC8F-57F660170C78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-ConsoleCiktisi", "6-ConsoleCiktisi\6-ConsoleCiktisi.csproj", "{C47BEA2E-BE5D-46A9-BC8F-57F660170C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-TryCatch", "7-TryCatch\7-TryCatch.csproj", "{984E75F8-5D81-4B38-8902-728D5719F48D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C47BEA2E-BE5D-46A9-BC8F-57F660170C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C47BEA2E-BE5D-46A9-BC8F-57F660170C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C47BEA2E-BE5D-46A9-BC8F-57F660170C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984E75F8-5D81-4B38-8902-728D5719F48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984E75F8-5D81-4B38-8902-728D5719F48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984E75F8-5D81-4B38-8902-728D5719F48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984E75F8-5D81-4B38-8902-728D5719F48D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
