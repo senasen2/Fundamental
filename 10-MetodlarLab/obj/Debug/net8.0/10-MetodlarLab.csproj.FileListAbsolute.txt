@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\bin\Debug\net8.0\10-MetodlarLab.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\bin\Debug\net8.0\10-MetodlarLab.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\bin\Debug\net8.0\10-MetodlarLab.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\bin\Debug\net8.0\10-MetodlarLab.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\bin\Debug\net8.0\10-MetodlarLab.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\refint\10-MetodlarLab.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\10-MetodlarLab.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\10-MetodlarLab\obj\Debug\net8.0\ref\10-MetodlarLab.dll
