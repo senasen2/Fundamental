@@ -1,4 +1,7 @@
-﻿namespace _9_Metodlar
+﻿using System.Runtime.CompilerServices;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace _9_Metodlar
 {
     internal class Program
     {
@@ -54,7 +57,7 @@
             #endregion
 
             #region Metod Çağırma
-            Topla(3, 98);
+            //Topla(3, 98);
             #endregion
 
             #region Sorular
@@ -64,18 +67,74 @@
              *     Gelen operatore gore 4 islem sonucunu ekrana yazdirsin
              */
 
+            //EkranaYaz metodu çağırma
+            Console.WriteLine("Mesajınızı yazınız:");
+            EkranaYaz(Console.ReadLine());
+
+            //Ekrandan SayiOku metodu çağırma
+            //int sayi = Sayioku("Bir sayı giriniz:");
+
+            //IslemYap metodu çağırma
+            IslemYap(32,8,"/");
             #endregion
         }
 
-        public static void Topla(int sayi1, int sayi2) 
+        public static void IslemYap(int number, int number2, string islem)
         {
-            Console.WriteLine($"Toplam:{sayi1 + sayi2}");
+            int sonuc = 0;
+            switch (islem)
+            {
+                case "+":
+                    sonuc = number + number2;
+                    break;
+                case "-":
+                    sonuc = number - number2;
+                    break;
+                case "*":
+                    sonuc = number * number2; 
+                    break;
+                case "/":
+                    if (number2 != 0)
+                    {
+                        sonuc = number / number2;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Hatalı işlem yaptınız!");
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Geçersiz işlem!");
+                    break;
+            } 
+            Console.WriteLine(sonuc);
         }
 
-        public static long Topla(long sayi1, int sayi2) 
+        public static int Sayioku(string mesaj)
         {
-            return sayi1 + sayi2; 
+            int sayi;
+            bool sonuc;
+            do
+            {
+                sonuc = int.TryParse(Console.ReadLine(), out sayi);
+            } while (!sonuc);
+            return sayi;
         }
+
+        public static void EkranaYaz(string mesaj) 
+        {
+            Console.WriteLine($"Gelen Mesaj: {mesaj}");
+        }
+
+        //public static void Topla(int sayi1, int sayi2) 
+        //{
+        //    Console.WriteLine($"Toplam:{sayi1 + sayi2}");
+        //}
+
+        //public static long Topla(long sayi1, int sayi2) 
+        //{
+        //    return sayi1 + sayi2; 
+        //}
 
 
     }
