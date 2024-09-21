@@ -49,6 +49,9 @@
             "Van", "Yozgat", "Zonguldak", "Aksaray", "Bayburt ", "Karaman", "Kırıkkale", "Batman", "Şırnak",
             "Bartın", "Ardahan", "Iğdır", "Yalova", "Karabük ", "Kilis", "Osmaniye ", "Düzce"};
             //(sehirler, 6);
+
+            //5-SesliHarfSayisi() Metodu Çağırma
+            SesliHarfSayisi("Çiçekler çok güzeller.");
             #endregion
         }
 
@@ -101,5 +104,20 @@
         //        Console.WriteLine($"Aradığınız Şehir:{sehirler[plaka - 1]}");
         //    }
         //}
+
+        public static void SesliHarfSayisi(string cumle) 
+        {
+            char[] sesliHarfler = { 'a', 'e' , 'ı', 'i' , 'o', 'ö', 'u', 'ü' };
+            int sayac = 0;
+            foreach (var harf in cumle)
+            {
+                for (int i = 0; i < sesliHarfler.Length; i++)
+                {
+                    if (harf == sesliHarfler[i]) sayac++;
+                }
+            }
+            Console.WriteLine(cumle);
+            Console.WriteLine("Bulunan sesli harf sayısı:" + sayac);
+        }
     }
 }
