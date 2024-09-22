@@ -51,7 +51,15 @@
             //(sehirler, 6);
 
             //5-SesliHarfSayisi() Metodu Çağırma
-            SesliHarfSayisi("Çiçekler çok güzeller.");
+            //esliHarfSayisi("Çiçekler çok güzeller.");
+
+            //6-Sifreleme() metodu çağırma ***** 6-Sifrele(string) ==> sifrelenmis şekilde bastırsın. SifreCoz(sifrelenmis) ==> kelime
+            Console.WriteLine("Mesajınızı yazınız:");
+            string mesaj = Console.ReadLine();
+            Sifreleme(mesaj);
+
+            //7-BasamakBul Metodu çağrıma
+            BasamakBul(1881);
             #endregion
         }
 
@@ -105,19 +113,75 @@
         //    }
         //}
 
-        public static void SesliHarfSayisi(string cumle) 
+        //public static void SesliHarfSayisi(string cumle) 
+        //{
+        //    char[] sesliHarfler = { 'a', 'e' , 'ı', 'i' , 'o', 'ö', 'u', 'ü' };
+        //    int sayac = 0;
+        //    foreach (var harf in cumle)
+        //    {
+        //        for (int i = 0; i < sesliHarfler.Length; i++)
+        //        {
+        //            if (harf == sesliHarfler[i]) sayac++;
+        //        }
+        //    }
+        //    Console.WriteLine(cumle);
+        //    Console.WriteLine("Bulunan sesli harf sayısı:" + sayac);
+        //}
+
+        public static void Sifreleme(string mesaj)
         {
-            char[] sesliHarfler = { 'a', 'e' , 'ı', 'i' , 'o', 'ö', 'u', 'ü' };
-            int sayac = 0;
-            foreach (var harf in cumle)
+            string[] kelimeler = mesaj.Split(' ');
+            string sonuc = "";
+
+            foreach (string kelime in kelimeler)
             {
-                for (int i = 0; i < sesliHarfler.Length; i++)
+                // Kelimenin uzunluğuna göre şifreleme
+                if (kelime.Length > 2)
                 {
-                    if (harf == sesliHarfler[i]) sayac++;
+                    // İlk ve son harfi koru, diğerlerini yıldızla değiştir
+                    string sifreliKelime = kelime[0] + new string('*', kelime.Length - 2) + kelime[kelime.Length - 1];
+                    sonuc += sifreliKelime + " ";
                 }
+                else
+                {
+                    // Kelimenin uzunluğu 2 veya daha az ise olduğu gibi ekle
+                    sonuc += kelime + " ";
+                }
+                
             }
-            Console.WriteLine(cumle);
-            Console.WriteLine("Bulunan sesli harf sayısı:" + sayac);
+            Console.WriteLine("Şifrelenmiş Mesaj: " + sonuc.Trim());
         }
+
+        public static void BasamakBul(int number)
+        {
+
+            // int'i string'e çevir
+            string sayiStr = number.ToString();
+
+            // Her bir basamağı ayırmak için karakter dizisine dönüştürelim
+            char[] sayiBasamaklari = sayiStr.ToCharArray();
+
+            if (sayiBasamaklari.Length == 2)
+            {
+                Console.WriteLine($"Sayının onlar basamağı:{sayiStr[0]}, Sayının birler basamağı:{sayiStr[1]}");
+            }
+            else if (sayiBasamaklari.Length == 3)
+            {
+                Console.WriteLine($"Sayının yüzler basamağı:{sayiStr[0]}, Sayının onlar basamağı:{sayiStr[1]}, Sayının birler basamağı:{sayiStr[2]}");
+            }
+            else if (sayiBasamaklari.Length == 4)
+            {
+                Console.WriteLine($"Sayının Binler Basamağı:{sayiStr[0]},Sayının yüzler basamağı:{sayiStr[1]}, Sayının onlar basamağı:{sayiStr[2]}, Sayının birler basamağı:{sayiStr[3]}");
+            }
+            else if (sayiBasamaklari.Length == 5)
+            {
+                Console.WriteLine($"Sayının Onbinler Basamağı:{sayiStr[0]}, Sayının Binler Basamağı:{sayiStr[1]},Sayının yüzler basamağı:{sayiStr[2]}, Sayının onlar basamağı:{sayiStr[3]}, Sayının birler basamağı:{sayiStr[4]}");
+            }
+            else
+            {
+                Console.WriteLine("Sayı belirlenen aralıkta değildir.");
+            }
+        }
+
+       }
     }
-}
