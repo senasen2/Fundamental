@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-MetodlarLab", "10-Metodl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-RefOutKeyword", "11-RefOutKeyword\11-RefOutKeyword.csproj", "{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-ArraySinifiveMetodlari", "12-ArraySinifiveMetodlari\12-ArraySinifiveMetodlari.csproj", "{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
