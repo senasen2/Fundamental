@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Metodlar", "9-Metodlar\9-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-MetodlarLab", "10-MetodlarLab\10-MetodlarLab.csproj", "{14621DA6-A943-4277-803B-FE06BEBC97E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-RefOutKeyword", "11-RefOutKeyword\11-RefOutKeyword.csproj", "{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-RefOutKeyword", "11-RefOutKeyword\11-RefOutKeyword.csproj", "{75FDBD72-BC1F-4CCC-AD44-8BFAF2855F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-ArraySinifiveMetodlari", "12-ArraySinifiveMetodlari\12-ArraySinifiveMetodlari.csproj", "{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-ArraySinifiveMetodlari", "12-ArraySinifiveMetodlari\12-ArraySinifiveMetodlari.csproj", "{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ArrayList", "13-ArrayList\13-ArrayList.csproj", "{55412379-F284-45C2-8483-5B057262FC88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55412379-F284-45C2-8483-5B057262FC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55412379-F284-45C2-8483-5B057262FC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55412379-F284-45C2-8483-5B057262FC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55412379-F284-45C2-8483-5B057262FC88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\bin\Debug\net8.0\13-ArrayList.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\bin\Debug\net8.0\13-ArrayList.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\bin\Debug\net8.0\13-ArrayList.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\bin\Debug\net8.0\13-ArrayList.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\bin\Debug\net8.0\13-ArrayList.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\refint\13-ArrayList.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\13-ArrayList.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\13-ArrayList\obj\Debug\net8.0\ref\13-ArrayList.dll
