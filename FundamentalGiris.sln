@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-ArraySinifiveMetodlari",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ArrayList", "13-ArrayList\13-ArrayList.csproj", "{55412379-F284-45C2-8483-5B057262FC88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Listeler", "14-Listeler\14-Listeler.csproj", "{42C0BB6B-DA5C-4654-BB05-6904C6E90014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{55412379-F284-45C2-8483-5B057262FC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55412379-F284-45C2-8483-5B057262FC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55412379-F284-45C2-8483-5B057262FC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
