@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10-MetodlarLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49affe05516508d38e3be80bf513fa18a4506f54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a1bbfa1a7350154c340dc7c0d1de293b89aa11")]
 [assembly: System.Reflection.AssemblyProductAttribute("10-MetodlarLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10-MetodlarLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\bin\Debug\net8.0\12-ArraySinifiveMetodlari.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\bin\Debug\net8.0\12-ArraySinifiveMetodlari.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\bin\Debug\net8.0\12-ArraySinifiveMetodlari.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\bin\Debug\net8.0\12-ArraySinifiveMetodlari.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\bin\Debug\net8.0\12-ArraySinifiveMetodlari.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\refint\12-ArraySinifiveMetodlari.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\12-ArraySinifiveMetodlari.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\12-ArraySinifiveMetodlari\obj\Debug\net8.0\ref\12-ArraySinifiveMetodlari.dll

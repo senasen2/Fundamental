@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("12-ArraySinifiveMetodlari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49affe05516508d38e3be80bf513fa18a4506f54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a1bbfa1a7350154c340dc7c0d1de293b89aa11")]
 [assembly: System.Reflection.AssemblyProductAttribute("12-ArraySinifiveMetodlari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("12-ArraySinifiveMetodlari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
