@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\bin\Debug\net8.0\15-HazirMetodlar.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\bin\Debug\net8.0\15-HazirMetodlar.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\bin\Debug\net8.0\15-HazirMetodlar.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\bin\Debug\net8.0\15-HazirMetodlar.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\bin\Debug\net8.0\15-HazirMetodlar.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\refint\15-HazirMetodlar.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\15-HazirMetodlar.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\15-HazirMetodlar\obj\Debug\net8.0\ref\15-HazirMetodlar.dll

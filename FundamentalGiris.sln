@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-RefOutKeyword", "11-RefO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-ArraySinifiveMetodlari", "12-ArraySinifiveMetodlari\12-ArraySinifiveMetodlari.csproj", "{571B600F-E800-4D1D-8CD8-E0AAE5FA3389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ArrayList", "13-ArrayList\13-ArrayList.csproj", "{55412379-F284-45C2-8483-5B057262FC88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-ArrayList", "13-ArrayList\13-ArrayList.csproj", "{55412379-F284-45C2-8483-5B057262FC88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Listeler", "14-Listeler\14-Listeler.csproj", "{42C0BB6B-DA5C-4654-BB05-6904C6E90014}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-Listeler", "14-Listeler\14-Listeler.csproj", "{42C0BB6B-DA5C-4654-BB05-6904C6E90014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-HazirMetodlar", "15-HazirMetodlar\15-HazirMetodlar.csproj", "{EBEE71B6-4578-48B6-9901-A83A6AAEF177}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C0BB6B-DA5C-4654-BB05-6904C6E90014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEE71B6-4578-48B6-9901-A83A6AAEF177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEE71B6-4578-48B6-9901-A83A6AAEF177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEE71B6-4578-48B6-9901-A83A6AAEF177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEE71B6-4578-48B6-9901-A83A6AAEF177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

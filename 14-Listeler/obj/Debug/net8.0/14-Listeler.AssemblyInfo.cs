@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14-Listeler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0d85267d05b46b2c43b59b8aad1d2ed05f3e802")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc5495b04ded171980c2564191926de320b7248")]
 [assembly: System.Reflection.AssemblyProductAttribute("14-Listeler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14-Listeler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
