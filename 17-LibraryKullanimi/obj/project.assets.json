@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "16-MyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/16-MyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/16-MyLibrary.dll": {}
+        }
+      },
+      "5-Diziler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/5-Diziler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/5-Diziler.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "16-MyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../16-MyLibrary/16-MyLibrary.csproj",
+      "msbuildProject": "../16-MyLibrary/16-MyLibrary.csproj"
+    },
+    "5-Diziler/1.0.0": {
+      "type": "project",
+      "path": "../5-Diziler/5-Diziler.csproj",
+      "msbuildProject": "../5-Diziler/5-Diziler.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "16-MyLibrary >= 1.0.0",
+      "5-Diziler >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Sena\\.nuget\\packages\\": {},
@@ -39,7 +74,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\16-MyLibrary\\16-MyLibrary.csproj": {
+              "projectPath": "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\16-MyLibrary\\16-MyLibrary.csproj"
+            },
+            "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\5-Diziler\\5-Diziler.csproj": {
+              "projectPath": "C:\\Users\\Sena\\source\\repos\\IstkaFullData\\Fundamental\\5-Diziler\\5-Diziler.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

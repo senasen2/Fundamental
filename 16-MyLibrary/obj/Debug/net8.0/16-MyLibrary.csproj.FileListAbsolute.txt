@@ -1,6 +1,4 @@
-C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.exe
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.deps.json
-C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.runtimeconfig.json
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.dll
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.pdb
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\16-MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,5 +9,4 @@ C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\16-MyLibrary.dll
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\refint\16-MyLibrary.dll
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\16-MyLibrary.pdb
-C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\16-MyLibrary.genruntimeconfig.cache
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\16-MyLibrary\obj\Debug\net8.0\ref\16-MyLibrary.dll

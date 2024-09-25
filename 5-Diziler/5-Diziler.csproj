@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="16-MyLibrary">
+      <HintPath>..\16-MyLibrary\bin\Debug\net8.0\16-MyLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

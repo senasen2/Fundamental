@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\bin\Debug\net8.0\11-RefOutKeyword.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\refint\11-RefOutKeyword.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\11-RefOutKeyword.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\11-RefOutKeyword\obj\Debug\net8.0\ref\11-RefOutKeyword.dll

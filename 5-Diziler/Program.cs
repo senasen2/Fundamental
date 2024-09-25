@@ -1,4 +1,6 @@
-﻿using System.Runtime.ConstrainedExecution;
+﻿using _16_MyLibrary;
+using _16_MyLibrary.SayisalKutuphaneler;
+using System.Runtime.ConstrainedExecution;
 
 namespace _5_Diziler
 {
@@ -171,6 +173,8 @@ namespace _5_Diziler
             Console.WriteLine(sayilar.Min());
             Console.WriteLine(sayilar.Max());
             #endregion
+
+           var sayi = Ekran.SayiOku("Bir sayı giriniz");
         }
     }
 }

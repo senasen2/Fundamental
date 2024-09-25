@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "17-LibraryKullanimi/1.0.0": {
+        "dependencies": {
+          "16-MyLibrary": "1.0.0",
+          "5-Diziler": "1.0.0"
+        },
+        "runtime": {
+          "17-LibraryKullanimi.dll": {}
+        }
+      },
+      "16-MyLibrary/1.0.0": {
+        "runtime": {
+          "16-MyLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "5-Diziler/1.0.0": {
+        "runtime": {
+          "5-Diziler.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17-LibraryKullanimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "16-MyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "5-Diziler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

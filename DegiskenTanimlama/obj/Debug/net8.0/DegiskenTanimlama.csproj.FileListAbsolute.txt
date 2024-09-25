@@ -12,3 +12,4 @@ C:\Users\Sena\source\repos\IstkaFullData\Fundamental\DegiskenTanimlama\obj\Debug
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.pdb
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.genruntimeconfig.cache
 C:\Users\Sena\source\repos\IstkaFullData\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\ref\DegiskenTanimlama.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.sourcelink.json

@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\16-MyLibrary\16-MyLibrary.csproj" />
+    <ProjectReference Include="..\5-Diziler\5-Diziler.csproj" />
+  </ItemGroup>
+
 </Project>
