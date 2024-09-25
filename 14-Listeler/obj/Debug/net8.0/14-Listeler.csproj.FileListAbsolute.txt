@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\bin\Debug\net8.0\14-Listeler.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\bin\Debug\net8.0\14-Listeler.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\bin\Debug\net8.0\14-Listeler.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\bin\Debug\net8.0\14-Listeler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\bin\Debug\net8.0\14-Listeler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\refint\14-Listeler.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\14-Listeler.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\14-Listeler\obj\Debug\net8.0\ref\14-Listeler.dll
