@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\bin\Debug\net8.0\18-DosyaOkuma.exe
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\bin\Debug\net8.0\18-DosyaOkuma.deps.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\bin\Debug\net8.0\18-DosyaOkuma.runtimeconfig.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\bin\Debug\net8.0\18-DosyaOkuma.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\bin\Debug\net8.0\18-DosyaOkuma.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.AssemblyInfo.cs
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.sourcelink.json
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\refint\18-DosyaOkuma.dll
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.pdb
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\18-DosyaOkuma.genruntimeconfig.cache
+C:\Users\Sena\source\repos\IstkaFullData\Fundamental\18-DosyaOkuma\obj\Debug\net8.0\ref\18-DosyaOkuma.dll
