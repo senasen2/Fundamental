@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.Write("Ne yapsın bu yazılımcılar?");
             Console.WriteLine("Github sorun !");
         }
     }
