@@ -4,7 +4,7 @@ namespace _18_DosyaOkuma
 {
     struct Sehir
     {
-        public int plakaKodu;
+        public int plakaKodu; //plaka
         public string il;
         public DateTime CreateDate;
         public bool isActive;
@@ -44,7 +44,7 @@ namespace _18_DosyaOkuma
             //{
             //    Console.WriteLine($"{sehir.plakaKodu} -> {sehir.il}");
             //}
-
+            
             sonuc.ForEach(p => Console.WriteLine($"{p.plakaKodu} -> {p.il}"));
 
             IlceleriOku(); //Geriye Ilceler Listesi Dönsün
