@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-MyLibrary", "16-MyLibrar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-DosyaOkuma", "18-DosyaOkuma\18-DosyaOkuma.csproj", "{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-CustomerDosyasiOkuma", "18-CustomerDosyasiOkuma\18-CustomerDosyasiOkuma.csproj", "{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-CustomerDosyasiOkuma", "18-CustomerDosyasiOkuma\18-CustomerDosyasiOkuma.csproj", "{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-NugetPaketKullanimi", "19-NugetPaketKullanimi\19-NugetPaketKullanimi.csproj", "{D90691E7-9D3B-4291-B256-47760FD6155E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90691E7-9D3B-4291-B256-47760FD6155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90691E7-9D3B-4291-B256-47760FD6155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90691E7-9D3B-4291-B256-47760FD6155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90691E7-9D3B-4291-B256-47760FD6155E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
