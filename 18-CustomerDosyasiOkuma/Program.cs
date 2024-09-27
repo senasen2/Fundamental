@@ -13,6 +13,7 @@
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Sena Şen");
         }
     }
 }
