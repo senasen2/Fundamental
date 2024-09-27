@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17-LibraryKullanimi", "17-L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16-MyLibrary", "16-MyLibrary\16-MyLibrary.csproj", "{B883597F-41B8-435E-B3FB-BF7A6B8D9299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-DosyaOkuma", "18-DosyaOkuma\18-DosyaOkuma.csproj", "{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-DosyaOkuma", "18-DosyaOkuma\18-DosyaOkuma.csproj", "{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-CustomerDosyasiOkuma", "18-CustomerDosyasiOkuma\18-CustomerDosyasiOkuma.csproj", "{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EEBAAB1-CBB4-44EB-A1F9-B65D58285E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8118E50-D58A-4CA0-AC81-A953AC22F1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
