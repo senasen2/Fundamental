@@ -9,6 +9,10 @@
             Console.WriteLine("Github sorun !");
             Console.WriteLine("Sena");
             //Console.BackgroundColor = ConsoleColor.Blue ;
+            for (int i = 0; i <= 25; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
