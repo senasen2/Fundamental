@@ -4,7 +4,7 @@ namespace _18_DosyaOkuma
 {
     struct Sehir
     {
-        public string plakaKodu;
+        public int plakaKodu;
         public string il;
         public DateTime CreateDate;
         public bool isActive;
@@ -38,17 +38,44 @@ namespace _18_DosyaOkuma
              */
 
             #endregion
-            SehirleriOKu();
+            var sehirler = SehirleriOKu();
+            var sonuc = sehirler.OrderBy(p => p.plakaKodu).ToList();
+            //foreach (var sehir in sonuc)
+            //{
+            //    Console.WriteLine($"{sehir.plakaKodu} -> {sehir.il}");
+            //}
+
+            sonuc.ForEach(p => Console.WriteLine($"{p.plakaKodu} -> {p.il}"));
+
             IlceleriOku(); //Geriye Ilceler Listesi Dönsün
             #region Customer-1000.csv dosyasının okunması ve listelere atılması
 
             #endregion
             var ilceler = IlceleriOku();
-            foreach (var item in ilceler)
+            //foreach (var item in ilceler)
+            //{
+            //    Console.WriteLine($"{item.IlceKodu} {item.IlKodu} {item.IlceAdi}");
+            //}
+
+            #region Ilceler üzerinde İstanbul'un ilçelerini bulma
+            var ilceSonuc = ilceler.OrderBy(p => p.IlKodu).ToList();
+            foreach (var ilce in ilceler)
             {
-                Console.WriteLine($"{item.IlceKodu} {item.IlKodu} {item.IlceAdi}");
+                //if (ilce.IlKodu == 22)
+                    Console.WriteLine(ilce.IlKodu + " " + ilce.IlceAdi);
+                
             }
 
+            //Listelerde Arama Yapma. Izmirin ilceleri 
+            var izmirIlceler = ilceler.Where(p => p.IlKodu == 35).ToList();
+            izmirIlceler.ForEach(p => Console.WriteLine(p.IlKodu + " " + p.IlceAdi));
+
+            // IStanbulda ki ilcelerin icerisinde 'B' olan ilceler hangileridir.
+
+            var result = ilceler.Where(p => p.IlKodu == 34 && p.IlceAdi.Contains('B')).ToList();
+            Console.WriteLine("IStanbuldaki Icerisinde B olan ilcelerin listesi");
+            result.ForEach(p => Console.WriteLine(p.IlceAdi));
+            #endregion
             #endregion
         }
 
@@ -113,7 +140,8 @@ namespace _18_DosyaOkuma
 
         #endregion
 
-        private static void SehirleriOKu()
+        #region SehirleriOku methodu
+        private static List<Sehir> SehirleriOKu()
         {
             string path = "c:\\Dosyalar\\il.csv";
             //string path2= @"c:\Dosyalar\il.csv";
@@ -129,8 +157,8 @@ namespace _18_DosyaOkuma
                 {
                     Sehir sehir = new Sehir(); //sehir struct dan ornek alınması
                     var sonuc = satir.Split(','); //gelen satırı ',' göre ayırır.
-                    sehir.plakaKodu = sonuc[0];
-                    sehir.il = sonuc[1];
+                    sehir.plakaKodu = int.Parse(sonuc[0].Replace('"', ' ').Trim());
+                    sehir.il = sonuc[1].Replace('"', ' ').Trim();
                     sehir.CreateDate = DateTime.Now;
                     sehir.isActive = true;
 
@@ -152,10 +180,10 @@ namespace _18_DosyaOkuma
                     #endregion
 
                 }
-                foreach (Sehir sehir in sehirler)
-                {
-                    Console.WriteLine($"{sehir.plakaKodu}=>{sehir.il}\t\tKayit Zamani=>{sehir.CreateDate}\tAktifmi=>{sehir.isActive}");
-                }
+                //foreach (Sehir sehir in sehirler)
+                //{
+                //    Console.WriteLine($"{sehir.plakaKodu}=>{sehir.il}\t\tKayit Zamani=>{sehir.CreateDate}\tAktifmi=>{sehir.isActive}");
+                //}
             }
             catch (FileNotFoundException ex)
             {
@@ -173,6 +201,8 @@ namespace _18_DosyaOkuma
             {
                 Console.WriteLine("Hata" + ex.Message);
             }
-        }
+            return sehirler;
+        } 
+        #endregion
     }
 }
