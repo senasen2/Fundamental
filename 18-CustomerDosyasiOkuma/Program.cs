@@ -8,7 +8,7 @@
             Console.Write("Ne yapsın bu yazılımcılar?");
             Console.WriteLine("Github sorun !");
             Console.WriteLine("Sena");
-            Console.BackgroundColor = ConsoleColor.Blue ;
+            //Console.BackgroundColor = ConsoleColor.Blue ;
         }
     }
 }
